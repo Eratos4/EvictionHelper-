@@ -51,8 +51,6 @@ A:Mumbai
 								Q(hearing):The court hears both sides and issues a final legal notice for eviction for the tenant based on the arguments and evidence present.
 				A:No
 			A:For personal uses or reconstruction of the property.
-				Q(1.1.1.1.5):
-				
 		A:No
 			Q(1.1.1.2):Thanks for visiting!
 	A:No
